@@ -1,2 +1,2 @@
-# tslearn
+# Learning Typescript
 Learning TypeScript
