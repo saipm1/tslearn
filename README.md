@@ -1,2 +1,2 @@
 # Learning Typescript
-Learning TypeScript
+Code repos for Learning TypeScript
